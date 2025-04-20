@@ -5,6 +5,7 @@ const Spinner = () => {
   return (
     <div>
       <div className='spinner'></div>
+      <p>Wait Connecting to Backend..Refresh the Page</p>
     </div>
   )
 }

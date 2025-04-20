@@ -32,6 +32,7 @@ const Home = () => {
     <div>
       {loading ? (
         <Spinner />
+        
       ) : stores.length > 0 ? (
         <div className="flex flex-col gap-6 max-w-4xl mx-auto p-4">
           {stores.map((store) => (
