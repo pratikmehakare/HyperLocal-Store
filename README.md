@@ -8,12 +8,11 @@ Build a full-stack web application with the following capabilities:
 - Users can add products to their cart.
 - Users can place an order by submitting their name and confirming their cart.
 
-Design appropriate data models and API structure yourself.
 
 ## Requirements
 - **Backend**: Node.js with Express.js and MongoDB.
-- **Frontend**: React.js or any other framework (Flutter preferred) 
-- **Database**: MongoDB or any other NoSQL 
+- **Frontend**: React.js 
+- **Database**: MongoDB 
 
 ## Features
 - List all stores on Home Page.
@@ -79,17 +78,5 @@ Design appropriate data models and API structure yourself.
 -------------------------------------------------
 
 
-📌 Notes for Candidates
-
-The UI doesn’t have to look exactly like this.
-
-Feel free to improve styling, add animations, or even make it prettier if you have time.
-
-The focus is on functionality and a clean, usable flow.
 
 
----
-**Bonus Challenge (Optional):**
-- Add search/filter on products
-- Edit quantity in cart
-- Better mobile responsiveness
